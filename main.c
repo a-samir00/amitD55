@@ -5,7 +5,7 @@
 int main (){
 	
 	
-	 printname();
+	  printid();
 	 
 	 printf("aast");
 	
