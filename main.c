@@ -7,7 +7,7 @@ int main (){
 	
 	  printid();
 	 
-	 printf("aast");
+	 printf("ast");
 	
 	return 0 ;
 	
