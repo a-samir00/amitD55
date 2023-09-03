@@ -4,8 +4,9 @@
 
 int main (){
 	
-	void printname();
 	
+	 printname();
 	
+	return 0 ;
 	
 }
