@@ -6,6 +6,8 @@ int main (){
 	
 	
 	 printname();
+	 
+	 printf("aast");
 	
 	return 0 ;
 	
